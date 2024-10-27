@@ -87,14 +87,12 @@ ul li img{
     height: 40vh;
 }
 .left-sidebar{
-    background-color: #cbdffa;
     position: sticky;
     top: 70px;
     flex-basis: 25%;
     align-self: flex-start;
 }
 .right-sidebar{
-    background-color: #cbdffa;
     position: sticky;
     top: 70px;
     flex-basis: 25%;
@@ -103,4 +101,23 @@ ul li img{
 .mian-section{
     flex-basis: 47%;
     height: 100vh;
+}
+.important-links a{
+    text-decoration: none;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 30px;
+    color: #626262;
+    width: fit-content;
+}
+.important-links img{
+    width: 28px;
+    margin-right: 15px;
+}
+.important-links a:last-child{
+    color: #1876f2;
+}
+.important-links{
+    border-bottom: 1px solid #ccc;
 }
