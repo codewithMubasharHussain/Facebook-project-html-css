@@ -76,3 +76,28 @@ ul li img{
     right: 0;
     top: 0;
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3a424d;
+    width: 100vw;
+    padding: 13px 5%;
+    height: 40vh;
+}
+.left-sidebar{
+    background-color: #cbdffa;
+    position: sticky;
+    top: 70px;
+    flex-basis: 25%;
+    align-self: flex-start;
+}
+.right-sidebar{
+    background-color: #cbdffa;
+    position: sticky;
+    top: 70px;
+    flex-basis: 25%;
+    align-self: flex-start;
+}
+.mian-section{
+    flex-basis: 47%;
+}
