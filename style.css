@@ -32,3 +32,47 @@ ul li img{
     width: 28px;
     margin: 0 15px;
 }
+.right-nav{
+    display: flex;
+    align-items: center;
+}
+.user-icon{
+    margin-left: 20px;
+}
+.user-icon img {
+    width: 50px;
+    border-radius: 50%;
+}
+.search-box{
+    width: 220px;
+    background-color: #efefef;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    border-radius: 20px;
+}
+.search-box img{
+    width: 18px;
+}
+.search-box input{
+    width: 100%;
+    outline: none;
+    padding: 10px;
+    border: 0;
+    background: transparent;
+}
+#online{
+    position: relative;
+}
+#online::after{
+    content: " ";;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #08c518;
+    position: absolute;
+    width: 8px;
+    border-radius: 50%;
+    height: 8px;
+    right: 0;
+    top: 0;
+}
