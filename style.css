@@ -11,6 +11,9 @@ nav{
     align-items: center;
     justify-content: space-between;
     background-color: #1876f2;
+    position: sticky;
+    top: 0;
+    z-index: 100;
     padding: 5px 5%;
 }
 .logo{
@@ -79,7 +82,6 @@ ul li img{
 .container{
     display: flex;
     justify-content: space-between;
-    background-color: #3a424d;
     width: 100vw;
     padding: 13px 5%;
     height: 40vh;
@@ -100,4 +102,5 @@ ul li img{
 }
 .mian-section{
     flex-basis: 47%;
+    height: 100vh;
 }
