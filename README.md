@@ -19,6 +19,6 @@ Getting Started
 To view this project, clone the repository to your local machine:
 https://github.com/codewithMubasharHussain/Facebook-project-html-css.git
 ![Front Page of Facebook Clone](https://github.com/codewithMubasharHussain/Facebook-project-html-css/blob/main/facebook-clone.jpeg)
-![Profile Page of Facebook Clone](https://github.com/your-username/facebook-clone/blob/main/profile-page.png)
-![Black Theme of Facebook Clone](https://github.com/your-username/facebook-clone/blob/main/profile-page.png)
+![Profile Page of Facebook Clone](https://github.com/codewithMubasharHussain/Facebook-project-html-css/blob/main/profile-page.jpeg)
+![Black Theme of Facebook Clone](https://github.com/codewithMubasharHussain/Facebook-project-html-css/blob/main/black-theme-facebook.jpeg)
 
